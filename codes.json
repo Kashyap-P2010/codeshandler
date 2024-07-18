@@ -1,1 +1,6 @@
-
+{
+    "codes": [
+        { "code": "THEBLOXDEV", "rewardType": "Coins", "rewardAmount": 800 },
+        { "code": "ITSCHRIS", "rewardType": "Item", "rewardID": "CyberSword" }
+    ]
+}
