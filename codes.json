@@ -1,6 +1,0 @@
-{
-    "codes": [
-        { "code": "BioHazard", "rewardType": "Coins", "rewardAmount": 900 },
-        { "code": "ITSCHRIS", "rewardType": "Item", "rewardID": "CyberSword" }
-    ]
-}
